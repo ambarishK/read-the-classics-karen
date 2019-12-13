@@ -31,16 +31,25 @@ Papers with > 1000 citations in Google Scholar. Manually curated.
 Of course, this definition will favour older articles. But, I mean, classics are supposed to be old-ish at least.
 
 ### 2018
-* Butler et al,  (Integrating single-cell transcriptomic data across different conditions, technologies, and species.)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700744/] 
+* Butler et al,  [Integrating single-cell transcriptomic data across different conditions, technologies, and species.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700744/]) 
 
 ### 2015
+* Klein et al, [Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells] (https://www.sciencedirect.com/science/article/pii/S0092867415005000)
 * Macosko et al, [Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets](https://www.sciencedirect.com/science/article/pii/S0092867415005498)
 * Zeisel et al, [Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq](https://science.sciencemag.org/content/347/6226/1138)
 
 ### 2014
 * Patel et al, [Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma](https://science.sciencemag.org/content/344/6190/1396)
 * Trapnell et al, [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells](https://www.nature.com/articles/nbt.2859) 
+* Picelli et al, [Full-length RNA-seq from single cells using Smart-seq2.](https://www.nature.com/articles/nprot.2014.006)
 
 ### 2008 
 * van Maaten & Hinton, [Visualizing Data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
 **oh my good lord, Karen, > 10.000 citations*
+
+
+# Contributions
+
+Want to contribute a classic that I've missed? Great! Just add classic to a fork, make a pull request, and it is good to go. 
+
+By the way, I will likely automate this list using the EuropePMC API, as one can sort by number of citations ( https://europepmc.org/search?query=%22single-cell%20rna%22&page=1&sortBy=CITED%2Bdesc). Any tips are more than welcome. 
