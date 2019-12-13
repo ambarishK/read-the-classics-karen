@@ -21,12 +21,20 @@ I plan to read more about in the theoretical future, but for now, I will be more
 
 
 
-Let's start with the *big classics* in single cells.
+Let's start with the *huge classics* in single cells.
 
-# Big Classics
-Papers with > 800 citations in Google Scholar
+# Huge Classics
+Papers with > 1000 citations in Google Scholar.
+Of course, this definition will favour older articles. But, I mean, classics are supposed to be old-ish at least.
 
+
+### 2018
+* Butler et al,  [Integrating single-cell transcriptomic data across different conditions, technologies, and species.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700744/) 
+
+### 2015
+* Zeisel et al, [Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq](https://science.sciencemag.org/content/347/6226/1138)
 
 ### 2014
+* Patel et al, [Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma](https://science.sciencemag.org/content/344/6190/1396)
 * Trapnell et al, [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells](https://www.nature.com/articles/nbt.2859) 
 
