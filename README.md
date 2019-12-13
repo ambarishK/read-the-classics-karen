@@ -31,10 +31,10 @@ Papers with > 1000 citations in Google Scholar. Manually curated.
 Of course, this definition will favour older articles. But, I mean, classics are supposed to be old-ish at least.
 
 ### 2018
-* Butler et al,  [Integrating single-cell transcriptomic data across different conditions, technologies, and species.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700744/]) 
+* Butler et al,  [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700744/]) 
 
 ### 2015
-* Klein et al, [Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells] (https://www.sciencedirect.com/science/article/pii/S0092867415005000)
+* Klein et al, [Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells](https://www.sciencedirect.com/science/article/pii/S0092867415005000)
 * Macosko et al, [Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets](https://www.sciencedirect.com/science/article/pii/S0092867415005498)
 * Zeisel et al, [Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq](https://science.sciencemag.org/content/347/6226/1138)
 
