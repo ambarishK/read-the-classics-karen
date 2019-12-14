@@ -18,7 +18,7 @@ I'm basically telling myself: read the classics, Karen!
 
 ## What is a "classic citation"?
 
-There are some people that try to really systematize what a "citation classic" is. Look at how many [Google Scholar results about it] (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CITATION+CLASSICS&btnG=). Wow
+There are some people that try to really systematize what a "citation classic" is. Look at how many [Google Scholar results about it](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CITATION+CLASSICS&btnG=). Wow
 
 I plan to read more about in the theoretical future, but for now, I will be more practical. I will just set a "citation threshold" to define a classic.
 
