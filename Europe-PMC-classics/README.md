@@ -12,7 +12,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 64 classics that meet the criteria above:  
+Currently, we have 65 classics that meet the criteria above:  
 
 # Big classics
 
@@ -105,6 +105,7 @@ Currently, we have 64 classics that meet the criteria above:
 * Camp JG et al, [Human cerebral organoids recapitulate gene expression programs of fetal neocortex development.](https://europepmc.org/article/MED/26644564)  
 * Cusanovich DA et al, [Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing.](https://europepmc.org/article/MED/25953818)  
 * Finak G et al, [MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data.](https://europepmc.org/article/MED/26653891)  
+* Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)  
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
 * Shin J et al, [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis.](https://europepmc.org/article/MED/26299571)  
@@ -129,8 +130,8 @@ Currently, we have 64 classics that meet the criteria above:
 
 ### 2010
   
-* Tang F et al, [RNA-Seq analysis to capture the transcriptome landscape of a single cell.](https://europepmc.org/article/MED/20203668)  
 * Tang F et al, [Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis.](https://europepmc.org/article/MED/20452321)  
+* Tang F et al, [RNA-Seq analysis to capture the transcriptome landscape of a single cell.](https://europepmc.org/article/MED/20203668)  
 
 # Contributions
   
@@ -138,4 +139,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-December 19, 2019
+December 26, 2019
