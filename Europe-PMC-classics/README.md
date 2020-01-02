@@ -12,7 +12,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 65 classics that meet the criteria above:  
+Currently, we have 67 classics that meet the criteria above:  
 
 # Big classics
 
@@ -84,6 +84,7 @@ Currently, we have 65 classics that meet the criteria above:
 ### 2017
   
 * Kiselev VY et al, [SC3: consensus clustering of single-cell RNA-seq data.](https://europepmc.org/article/MED/28346451)  
+* Qiu X et al, [Reversed graph embedding resolves complex single-cell trajectories.](https://europepmc.org/article/MED/28825705)  
 * Villani AC et al, [Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors.](https://europepmc.org/article/MED/28428369)  
 * Ziegenhain C et al, [Comparative Analysis of Single-Cell RNA Sequencing Methods.](https://europepmc.org/article/MED/28212749)  
 
@@ -97,6 +98,7 @@ Currently, we have 65 classics that meet the criteria above:
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
+* Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
 
 ### 2015
   
@@ -130,8 +132,8 @@ Currently, we have 65 classics that meet the criteria above:
 
 ### 2010
   
-* Tang F et al, [Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis.](https://europepmc.org/article/MED/20452321)  
 * Tang F et al, [RNA-Seq analysis to capture the transcriptome landscape of a single cell.](https://europepmc.org/article/MED/20203668)  
+* Tang F et al, [Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis.](https://europepmc.org/article/MED/20452321)  
 
 # Contributions
   
@@ -139,4 +141,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-December 26, 2019
+January 02, 2020
