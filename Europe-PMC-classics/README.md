@@ -12,7 +12,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 67 classics that meet the criteria above:  
+Currently, we have 69 classics that meet the criteria above:  
 
 # Big classics
 
@@ -93,12 +93,13 @@ Currently, we have 67 classics that meet the criteria above:
 * Dixit A et al, [Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.](https://europepmc.org/article/MED/27984732)  
 * Goldmann T et al, [Origin, fate and dynamics of macrophages at central nervous system interfaces.](https://europepmc.org/article/MED/27135602)  
 * Nowakowski TJ et al, [Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.](https://europepmc.org/article/MED/27038591)  
+* Petropoulos S et al, [Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos.](https://europepmc.org/article/MED/27062923)[NEW]  
 * Petryszak R et al, [Expression Atlas update--an integrated database of gene and protein expression in humans, animals and plants.](https://europepmc.org/article/MED/26481351)  
 * Scotti MM et al, [RNA mis-splicing in disease.](https://europepmc.org/article/MED/26593421)  
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
-* Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)[NEW]  
+* Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
 * Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
 
 ### 2015
@@ -116,11 +117,12 @@ Currently, we have 67 classics that meet the criteria above:
 
 ### 2014
   
+* Benayoun BA et al, [H3K4me3 breadth is linked to cell identity and transcriptional consistency.](https://europepmc.org/article/MED/25083876)[NEW]  
 * Bendall SC et al, [Single-cell trajectory detection uncovers progression and regulatory coordination in human B cell development.](https://europepmc.org/article/MED/24766814)  
 * Hogan BL et al, [Repair and regeneration of the respiratory system: complexity, plasticity, and mechanisms of lung stem cell function.](https://europepmc.org/article/MED/25105578)  
 * Kharchenko PV et al, [Bayesian approach to single-cell differential expression analysis.](https://europepmc.org/article/MED/24836921)  
 * Kumar RM et al, [Deconstructing transcriptional heterogeneity in pluripotent stem cells.](https://europepmc.org/article/MED/25471879)  
-* Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)[NEW]  
+* Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)  
 * Marinov GK et al, [From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.](https://europepmc.org/article/MED/24299736)  
 * Saliba AE et al, [Single-cell RNA-seq: advances and future challenges.](https://europepmc.org/article/MED/25053837)  
 * Takashima Y et al, [Resetting transcription factor control circuitry toward ground-state pluripotency in human.](https://europepmc.org/article/MED/25215486)  
