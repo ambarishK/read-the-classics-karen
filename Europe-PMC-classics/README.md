@@ -98,7 +98,7 @@ Currently, we have 67 classics that meet the criteria above:
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
-* Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
+* Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)[NEW]  
 * Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
 
 ### 2015
@@ -120,7 +120,7 @@ Currently, we have 67 classics that meet the criteria above:
 * Hogan BL et al, [Repair and regeneration of the respiratory system: complexity, plasticity, and mechanisms of lung stem cell function.](https://europepmc.org/article/MED/25105578)  
 * Kharchenko PV et al, [Bayesian approach to single-cell differential expression analysis.](https://europepmc.org/article/MED/24836921)  
 * Kumar RM et al, [Deconstructing transcriptional heterogeneity in pluripotent stem cells.](https://europepmc.org/article/MED/25471879)  
-* Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)  
+* Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)[NEW]  
 * Marinov GK et al, [From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.](https://europepmc.org/article/MED/24299736)  
 * Saliba AE et al, [Single-cell RNA-seq: advances and future challenges.](https://europepmc.org/article/MED/25053837)  
 * Takashima Y et al, [Resetting transcription factor control circuitry toward ground-state pluripotency in human.](https://europepmc.org/article/MED/25215486)  
