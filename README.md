@@ -22,17 +22,21 @@ There are some people that try to really systematize what a "citation classic" i
 
 I plan to read more about in the theoretical future, but for now, I will be more practical. I will just set a "citation threshold" to define a classic.
 
-# Classic citations from the Europe PMC database
 
-Definitions:
+Classic citations from the Europe PMC database
+==============================================
+
+# Overview
+
+
+Let's start lookinf for classic citations at the EuropePMC database.Once more, we will use naive definitions of citation classics.  
+  
 * Classics are all cited more than 150 times.  
 * Big classics: more than 500 citations  
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
-
-(retrieved in December 14 2019)
-
-Have fun! 
+  
+Currently, we have 67 classics that meet the criteria above:  
 
 # Big classics
 
@@ -74,6 +78,7 @@ Have fun!
 * Deng Q et al, [Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells.](https://europepmc.org/article/MED/24408435)  
 * Islam S et al, [Quantitative single-cell RNA-seq with unique molecular identifiers.](https://europepmc.org/article/MED/24363023)  
 * Shalek AK et al, [Single-cell RNA-seq reveals dynamic paracrine control of cellular variation.](https://europepmc.org/article/MED/24919153)  
+* Takashima Y et al, [Resetting transcription factor control circuitry toward ground-state pluripotency in human.](https://europepmc.org/article/MED/25215486)  
 * Treutlein B et al, [Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq.](https://europepmc.org/article/MED/24739965)  
 * Wu H et al, [Reversing DNA methylation: mechanisms, genomics, and biological functions.](https://europepmc.org/article/MED/24439369)  
 
@@ -103,6 +108,7 @@ Have fun!
 ### 2017
   
 * Kiselev VY et al, [SC3: consensus clustering of single-cell RNA-seq data.](https://europepmc.org/article/MED/28346451)  
+* Qiu X et al, [Reversed graph embedding resolves complex single-cell trajectories.](https://europepmc.org/article/MED/28825705)  
 * Villani AC et al, [Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors.](https://europepmc.org/article/MED/28428369)  
 * Ziegenhain C et al, [Comparative Analysis of Single-Cell RNA Sequencing Methods.](https://europepmc.org/article/MED/28212749)  
 
@@ -116,6 +122,7 @@ Have fun!
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
+* Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
 
 ### 2015
   
@@ -124,6 +131,7 @@ Have fun!
 * Camp JG et al, [Human cerebral organoids recapitulate gene expression programs of fetal neocortex development.](https://europepmc.org/article/MED/26644564)  
 * Cusanovich DA et al, [Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing.](https://europepmc.org/article/MED/25953818)  
 * Finak G et al, [MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data.](https://europepmc.org/article/MED/26653891)  
+* Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)  
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
 * Shin J et al, [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis.](https://europepmc.org/article/MED/26299571)  
@@ -139,7 +147,6 @@ Have fun!
 * Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)  
 * Marinov GK et al, [From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.](https://europepmc.org/article/MED/24299736)  
 * Saliba AE et al, [Single-cell RNA-seq: advances and future challenges.](https://europepmc.org/article/MED/25053837)  
-* Takashima Y et al, [Resetting transcription factor control circuitry toward ground-state pluripotency in human.](https://europepmc.org/article/MED/25215486)  
 * Theunissen TW et al, [Systematic identification of culture conditions for induction and maintenance of naive human pluripotency.](https://europepmc.org/article/MED/25090446)  
 * Wu AR et al, [Quantitative assessment of single-cell RNA-sequencing methods.](https://europepmc.org/article/MED/24141493)  
 
@@ -153,6 +160,9 @@ Have fun!
 * Tang F et al, [Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis.](https://europepmc.org/article/MED/20452321)  
 
 # Contributions
+  
+Want to contribute a classic that I've missed? Great! Just add classic to a fork, make a pull request, and it is good to go.  
 
-Want to contribute a classic that I've missed? Great! Just add classic to a fork, make a pull request, and it is good to go. 
-
+# Last update:
+  
+January 02, 2020
